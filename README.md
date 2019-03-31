@@ -1,5 +1,5 @@
 # Landmark-classification-neural-net
-Train a nueral net to classify images from a list of 10 cities based on landmarks
+Train a nueral net to classify images from a list of 10 cities based on landmarks. This was a homework assignment for Intro to Artificial Intelligence at Carnegie Mellon University.
 
 Objective: Given a picture, classify what is the city in the picture. 
 
